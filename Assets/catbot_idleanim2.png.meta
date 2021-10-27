@@ -1,0 +1,972 @@
+fileFormatVersion: 2
+guid: dea2dee85b667e1428d793e7e5359407
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9113851588552406523
+    second: catbot_idleanim2_0
+  - first:
+      213: 9023525341116743761
+    second: catbot_idleanim2_1
+  - first:
+      213: 5407361736330694115
+    second: catbot_idleanim2_2
+  - first:
+      213: -1574811216225510961
+    second: catbot_idleanim2_3
+  - first:
+      213: 4912444226062581626
+    second: catbot_idleanim2_4
+  - first:
+      213: -320720712922049580
+    second: catbot_idleanim2_5
+  - first:
+      213: 7518824714194740643
+    second: catbot_idleanim2_6
+  - first:
+      213: 5087783243707325812
+    second: catbot_idleanim2_7
+  - first:
+      213: -6086706008306373622
+    second: catbot_idleanim2_8
+  - first:
+      213: 2096244195387949759
+    second: catbot_idleanim2_9
+  - first:
+      213: 1228677451873766529
+    second: catbot_idleanim2_10
+  - first:
+      213: 2435658480058457547
+    second: catbot_idleanim2_11
+  - first:
+      213: -7843159281270796080
+    second: catbot_idleanim2_12
+  - first:
+      213: 4770341282525848536
+    second: catbot_idleanim2_13
+  - first:
+      213: 3005547952155766911
+    second: catbot_idleanim2_14
+  - first:
+      213: -8905610441697177171
+    second: catbot_idleanim2_15
+  - first:
+      213: -2215031113010504691
+    second: catbot_idleanim2_16
+  - first:
+      213: -7904224772144520809
+    second: catbot_idleanim2_17
+  - first:
+      213: 2128751936737262410
+    second: catbot_idleanim2_18
+  - first:
+      213: 6830131230175265981
+    second: catbot_idleanim2_19
+  - first:
+      213: -84676142066456807
+    second: catbot_idleanim2_20
+  - first:
+      213: 1380485725231083725
+    second: catbot_idleanim2_21
+  - first:
+      213: 4815828855653314357
+    second: catbot_idleanim2_22
+  - first:
+      213: 7103455385432677409
+    second: catbot_idleanim2_23
+  - first:
+      213: -257257592745246456
+    second: catbot_idleanim2_24
+  - first:
+      213: 6231097349488186108
+    second: catbot_idleanim2_25
+  - first:
+      213: 8462700963767918885
+    second: catbot_idleanim2_26
+  - first:
+      213: -7162447754400895105
+    second: catbot_idleanim2_27
+  - first:
+      213: -4991379780441765566
+    second: catbot_idleanim2_28
+  - first:
+      213: 2115915735646537392
+    second: catbot_idleanim2_29
+  - first:
+      213: 3279984297236814427
+    second: catbot_idleanim2_30
+  - first:
+      213: -3263013732644961571
+    second: catbot_idleanim2_31
+  - first:
+      213: -1657044441179682905
+    second: catbot_idleanim2_32
+  - first:
+      213: -5840718991647387892
+    second: catbot_idleanim2_33
+  - first:
+      213: -5232028056506691937
+    second: catbot_idleanim2_34
+  - first:
+      213: 5210769875319894151
+    second: catbot_idleanim2_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: catbot_idleanim2_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 137
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a44b87448158180800000000000000
+      internalID: -9113851588552406523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catbot_idleanim2_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 137
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150cff23d700a3d70800000000000000
+      internalID: 9023525341116743761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catbot_idleanim2_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 137
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3edc70a89deca0b40800000000000000
+      internalID: 5407361736330694115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catbot_idleanim2_3
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 137
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9d394ea85252ae0800000000000000
+      internalID: -1574811216225510961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catbot_idleanim2_4
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 137
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ff0611ff18c2440800000000000000
+      internalID: 4912444226062581626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catbot_idleanim2_5
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 137
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3db2af5329c8bf0800000000000000
+      internalID: -320720712922049580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catbot_idleanim2_6
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 137
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5610abd3b385860800000000000000
+      internalID: 7518824714194740643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catbot_idleanim2_7
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 138
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d1c5767ef6b9640800000000000000
+      internalID: 5087783243707325812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catbot_idleanim2_8
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 138
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ca9aa522da78ba0800000000000000
+      internalID: -6086706008306373622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catbot_idleanim2_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 90
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2c2944dfa571d10800000000000000
+      internalID: 2096244195387949759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catbot_idleanim2_10
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 90
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18cc776f1a32d0110800000000000000
+      internalID: 1228677451873766529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catbot_idleanim2_11
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 90
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd5d02ab723dc120800000000000000
+      internalID: 2435658480058457547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catbot_idleanim2_12
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 90
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0db034030872390800000000000000
+      internalID: -7843159281270796080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catbot_idleanim2_13
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 90
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3a5524f18a33240800000000000000
+      internalID: 4770341282525848536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catbot_idleanim2_14
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 90
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70b5ab30f9d5b920800000000000000
+      internalID: 3005547952155766911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catbot_idleanim2_15
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 90
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da151aabc7ae86480800000000000000
+      internalID: -8905610441697177171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catbot_idleanim2_16
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 90
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c129e30f0a241e0800000000000000
+      internalID: -2215031113010504691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catbot_idleanim2_17
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 90
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791ab77b27d8e4290800000000000000
+      internalID: -7904224772144520809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catbot_idleanim2_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 44
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b362c9b98da8d10800000000000000
+      internalID: 2128751936737262410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catbot_idleanim2_19
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 44
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db406ef8a2089ce50800000000000000
+      internalID: 6830131230175265981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catbot_idleanim2_20
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 44
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917ad275f7b23def0800000000000000
+      internalID: -84676142066456807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catbot_idleanim2_21
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 44
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc075e5f378782310800000000000000
+      internalID: 1380485725231083725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catbot_idleanim2_22
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 44
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53faa4034d245d240800000000000000
+      internalID: 4815828855653314357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catbot_idleanim2_23
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 44
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12cdc8e890b849260800000000000000
+      internalID: 7103455385432677409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catbot_idleanim2_24
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 45
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801c5a815990e6cf0800000000000000
+      internalID: -257257592745246456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catbot_idleanim2_25
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 45
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf21f1d860e497650800000000000000
+      internalID: 6231097349488186108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catbot_idleanim2_26
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 45
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5212eb170bd817570800000000000000
+      internalID: 8462700963767918885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catbot_idleanim2_27
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7fe3a437bfd99c90800000000000000
+      internalID: -7162447754400895105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catbot_idleanim2_28
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24983bff88e0bbab0800000000000000
+      internalID: -4991379780441765566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catbot_idleanim2_29
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b60fd5a62e3d5d10800000000000000
+      internalID: 2115915735646537392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catbot_idleanim2_30
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ad8a91758d48d20800000000000000
+      internalID: 3279984297236814427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catbot_idleanim2_31
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2c9706c4277b2d0800000000000000
+      internalID: -3263013732644961571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catbot_idleanim2_32
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a703723cdef009e0800000000000000
+      internalID: -1657044441179682905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catbot_idleanim2_33
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 0
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0fcaf5c50991fea0800000000000000
+      internalID: -5840718991647387892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catbot_idleanim2_34
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 0
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e8a0df33a1467b0800000000000000
+      internalID: -5232028056506691937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catbot_idleanim2_35
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 0
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780bfb0089f505840800000000000000
+      internalID: 5210769875319894151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f7cc9bcb4f2482840bfcb4f6b13e7fb0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
